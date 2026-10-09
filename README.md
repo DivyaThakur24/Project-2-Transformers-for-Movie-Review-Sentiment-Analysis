@@ -1,2 +1,3 @@
-# Project-2-Transformers-for-Movie-Review-Sentiment-Analysis
-Project 2 
+# Purpose of this Folder
+
+This folder contains the scaffolded project files to get a student started on their project. 
